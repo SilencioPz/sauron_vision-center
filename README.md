@@ -154,4 +154,4 @@ Projeto open-source sob licença MIT.
 Desenvolvido com DeepSeek e Claude Chat e ☕ em Rondonópolis/MT!
 Projeto open-source sob licença MIT.
 
-Desenvolvido com DeepSeek Chat e ☕ em Rondonópolis/MT!
+Desenvolvido com DeepSeek e Claude Chat com muito ☕ em Rondonópolis/MT!
