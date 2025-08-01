@@ -1,0 +1,40 @@
+# Adicione no início (substitua as linhas existentes sobre gradle):
+/gradle/          # <-- Barra no início para ignorar a pasta RAIZ
+!gradle/wrapper/  # <-- Exceção para o wrapper (obrigatório)
+!gradlew          # <-- Mantém os executáveis
+!gradlew.bat
+
+*.iml
+.gradle
+app/schemas/
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Banco de dados local
+*.db
+/app/databases/
+
+# Arquivos PDF gerados
+*.pdf
+/app/src/main/assets/generated_pdfs/
+
+*.orig
+*.rej
+*.bak
+*.kapt
+
+/build/
+/app/build/
+
+.idea/
+.gradle/
