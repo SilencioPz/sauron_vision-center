@@ -37,4 +37,6 @@ local.properties
 /app/build/
 
 .idea/
-.gradle/
+.gradle/gradle/
+/gradle
+gradle
