@@ -1,4 +1,4 @@
-👁️ ##SauronVisionCenter - Sistema de Prescrição Óptica Inteligente##
+👁️ ##SauronVisionCenter - Sistema de Prescrição Óptica Inteligente
 
 Um aplicativo Android desenvolvido em Kotlin para gestão completa de 
 
