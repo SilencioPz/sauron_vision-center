@@ -1,10 +1,9 @@
-👁️ ##SauronVisionCenter - Sistema de Prescrição Óptica Inteligente
+# 👁️ SauronVisionCenter - Sistema de Prescrição Óptica Inteligente
 
 Um aplicativo Android desenvolvido em Kotlin para gestão completa de 
-
 receitas oftalmológicas, com geração automática de PDFs e armazenamento local seguro.
 
-(Inspirado no "Olho que Tudo Vê" - mas sem poderes malignos!)
+*(Inspirado no "Olho que Tudo Vê" - mas sem poderes malignos!)*
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✨ Funcionalidades Principais
 
