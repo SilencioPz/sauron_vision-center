@@ -217,10 +217,6 @@ fun PrescriptionForm(
     }
 }
 
-
-
-
-
 @Preview(showBackground = true)
 @Composable
 fun PrescriptionFormPreview() {
